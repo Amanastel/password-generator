@@ -24,7 +24,7 @@ A modern, secure password generator built with Next.js, TypeScript, and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Amanastel/password-generator
 cd password-generator
 ```
 
